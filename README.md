@@ -2,4 +2,4 @@
 ###
 > Apenas um repositório para salvar meus arquivos de estudos sobre GO
 
-![Imagem](image.png)
+![Imagem](foto.jpg)
